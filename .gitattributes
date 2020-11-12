@@ -1,0 +1,3 @@
+*.npy -crlf -diff -merge
+*.npz -crlf -diff -merge
+*.wav -crlf -diff -merge
