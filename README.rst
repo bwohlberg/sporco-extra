@@ -7,4 +7,4 @@ SPORCO Extra
 Content
 -------
 
-- `cli <cli>`_   Convolutional Lateral Inhibition examples and data
+- `cscli <cscli>`_   Convolutional Lateral Inhibition examples and data
