@@ -7,4 +7,5 @@ SPORCO Extra
 Content
 -------
 
+- `cdlpsf <cdlpsf>`_  PSF estimation via Convolutional Dictionary Learning
 - `cscli <cscli>`_   Convolutional Lateral Inhibition examples and data
