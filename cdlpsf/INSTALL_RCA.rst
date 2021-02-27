@@ -54,4 +54,4 @@ If the shell in which these instructions are executed is closed, the RCA envirom
    export PATH=$PATH:/opt/sparse2d/bin
    conda activate py38rca
 
-It is recommended that the command above that adds `/opt/sparse2d/bin` to the path should be added to the user's shell initialization file (e.g. `.bashrc`).
+It is recommended that the command above that adds ``/opt/sparse2d/bin`` to the path should be added to the user's shell initialization file (e.g. ``.bashrc``).
