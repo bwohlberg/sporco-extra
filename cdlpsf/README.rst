@@ -4,13 +4,7 @@ ICDL PSF Estimation
 
 This directory contains the scripts used to generate the results in the paper `PSF Estimation in Crowded Astronomical Imagery as a Convolutional Dictionary Learning Problem <https://arxiv.org/abs/2101.01268>`_ (doi:`10.1109/LSP.2021.3050706 <http://dx.doi.org/10.1109/LSP.2021.3050706>`_). The proposed method, referred to here as `Interpolated Convolutional Dictionary Learning (ICDL)`, is compared with `Resolved Component Analysis (RCA) <https://github.com/CosmoStat/rca>`_.
 
-The implementation of the `ICDL` method currently requires the development version of the `SPORCO <https://github.com/bwohlberg/sporco>`_ package, which can be installed by
-
-::
-
-    pip install git+https://github.com/bwohlberg/sporco
-
-Once SPORCO version 0.1.13 has been released, it can be installed by
+The implementation of the `ICDL` method requires `SPORCO <https://github.com/bwohlberg/sporco>`_ version 0.2.0 or later. It can be installed by
 
 ::
 
